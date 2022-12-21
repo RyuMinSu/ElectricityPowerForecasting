@@ -1,3 +1,4 @@
+#%%
 import numpy as np
 import pandas as pd
 import datetime
@@ -5,7 +6,7 @@ import datetime
 from electPlotMD import *
 from electMLMD import *
 from electDBMD import *
-
+#%%
 host = ""
 id = ""
 pw = ""
